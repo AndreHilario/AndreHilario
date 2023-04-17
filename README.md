@@ -1,5 +1,5 @@
 ### Hi there, be welcome! 👋
-#### I'm André Hilário, student from Driven education to software engineer!
+#### I'm André Hilário, student from Driven education to be software engineer!
 
 ## Tools and technologies
 <div style="gap: 10px">
