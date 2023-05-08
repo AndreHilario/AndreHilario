@@ -17,7 +17,7 @@
 
 ## Learning
 <div style="gap: 10px">
-  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </div>        
           
           
