@@ -54,8 +54,6 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
   <span>JavaScript</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <span>TypeScript</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <span>Python</span>
 </div>
 
 ## Learning
