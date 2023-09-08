@@ -12,7 +12,7 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
 - 🚀 I'm constantly learning and exploring new technologies to stay up-to-date in the fast-paced tech world.
 
 ## Technologies
-### Version Control and Collaboration
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -41,4 +41,12 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
     </a>
   </div>
 </div>
+
+## Contact
+
+You can find me online at the following places:
+
+- 📧 Email: [andre18hilario@gmail.com](mailto:andre18hilario@gmail.com)
+- 🌐 LinkedIn: [André Hilário](https://www.linkedin.com/in/andre-hilario/)
+
 
