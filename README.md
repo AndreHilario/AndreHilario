@@ -42,7 +42,7 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
 </div>
 
 ### Databases
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center; border: 1px solid #FFFFFF">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <span style="margin-left: 10px;">MongoDB</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
