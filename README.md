@@ -15,54 +15,65 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
 ### Version Control and Collaboration
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <span style="margin-left: 10px; margin-right: 20px">Git</span>
+  <span style="margin-left: 10px; margin-right: 20px;">Git</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <span style="margin-left: 10px; margin-right: 20px">GitHub</span>
+  <span style="margin-left: 10px; margin-right: 20px;">GitHub</span>
 </div>
+
+<br> <!-- Adicione uma quebra de linha para separar as seções -->
 
 ### Front-end
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <span style="margin-left: 10px; margin-right: 20px">HTML5</span>
+  <span style="margin-left: 10px; margin-right: 20px;">HTML5</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <span style="margin-left: 10px; margin-right: 20px">CSS3</span>
+  <span style="margin-left: 10px; margin-right: 20px;">CSS3</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <span style="margin-left: 10px; margin-right: 20px">JavaScript</span>
+  <span style="margin-left: 10px; margin-right: 20px;">JavaScript</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <span style="margin-left: 10px; margin-right: 20px">React</span>
+  <span style="margin-left: 10px; margin-right: 20px;">React</span>
 </div>
+
+<br>
 
 ### Back-end
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <span style="margin-left: 10px; margin-right: 20px">Node.js</span>
+  <span style="margin-left: 10px; margin-right: 20px;">Node.js</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
-  <span style="margin-left: 10px; margin-right: 20px">NestJS</span>
+  <span style="margin-left: 10px; margin-right: 20px;">NestJS</span>
 </div>
+
+<br>
 
 ### Databases
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <span style="margin-left: 10px; margin-right: 20px">MongoDB</span>
+  <span style="margin-left: 10px; margin-right: 20px;">MongoDB</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <span style="margin-left: 10px; margin-right: 20px">PostgreSQL</span>
+  <span style="margin-left: 10px; margin-right: 20px;">PostgreSQL</span>
 </div>
+
+<br>
 
 ### Programming Languages
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <span style="margin-left: 10px; margin-right: 20px">JavaScript</span>
+  <span style="margin-left: 10px; margin-right: 20px;">JavaScript</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <span style="margin-left: 10px; margin-right: 20px">TypeScript</span>
+  <span style="margin-left: 10px; margin-right: 20px;">TypeScript</span>
 </div>
+
+<br>
 
 ## Learning
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <span style="margin-left: 10px; margin-right: 20px">Python</span>
+  <span style="margin-left: 10px; margin-right: 20px;">Python</span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/>
-  <span style="margin-left: 10px; margin-right: 20px">WordPress</span>
+  <span style="margin-left: 10px; margin-right: 20px;">WordPress</span>
 </div>
+
 
 
 
