@@ -1,5 +1,5 @@
 ### Hi there, be welcome! 👋
-#### I'm André Hilário, student from Driven education to be software engineer!
+#### I'm André Hilário, a full stack developer!
 
 ## Tools and technologies
 <div style="gap: 10px">
