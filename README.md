@@ -69,11 +69,16 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
 
           
 
-
-<div style="display: flex; flex-direction: row; margin-top: 30px">
-  <a href="https://github.com/AndreHilario" style="display: flex; flex-direction: column; margin-top: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreHilario&layout=compact&langs_count=7&theme=dracula" height="180em">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndreHilario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em">
-  </a>
-</div>
-         
+<span>
+  <div style="display: flex; flex-direction: row; margin-top: 30px">
+    <a href="https://github.com/AndreHilario" style="display: flex; flex-direction: column; margin-top: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreHilario&layout=compact&langs_count=7&theme=dracula" height="180em">
+    </a>
+  </div>
+  
+  <div style="display: flex; flex-direction: row; margin-top: 30px">
+    <a href="https://github.com/AndreHilario" style="display: flex; flex-direction: column; margin-top: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AndreHilario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em">
+    </a>
+  </div>
+</span>
