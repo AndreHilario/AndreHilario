@@ -84,14 +84,12 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
     <a href="https://github.com/AndreHilario">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreHilario&layout=compact&langs_count=7&theme=dracula" height="180em" />
     </a>
-    <p style="font-size: 14px; color: #586069; margin-top: 10px;">Top Languages</p>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; border: 1px solid #e1e4e8; padding: 20px; border-radius: 5px; background-color: #f6f8fa;">
     <a href="https://github.com/AndreHilario">
       <img src="https://github-readme-stats.vercel.app/api?username=AndreHilario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
     </a>
-    <p style="font-size: 14px; color: #586069; margin-top: 10px;">GitHub Stats</p>
   </div>
 </div>
 
