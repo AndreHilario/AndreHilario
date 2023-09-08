@@ -66,7 +66,8 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
 </div>
 
 
-### GitHub Stats
+
+## GitHub Stats
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <div style="display: flex; flex-direction: column; align-items: center; border: 1px solid #e1e4e8; padding: 20px; border-radius: 5px; background-color: #f6f8fa;">
