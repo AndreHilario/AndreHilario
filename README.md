@@ -1,5 +1,14 @@
 ### Hello, welcome! 👋
-#### I'm André Hilário, a full-stack developer!
+I'm André Hilário, a passionate full-stack developer with a love for building and creating digital solutions. 
+
+## About Me
+
+- 🔭 I'm experienced in a wide range of technologies and tools, from front-end to back-end.
+- 💻 I enjoy working with HTML, CSS, JavaScript and React to craft user-friendly and visually appealing web applications.
+- ⚙️ On the back-end, I have expertise in Node.js and NestJS to create robust server-side solutions.
+- 📊 I'm skilled in working with databases like MongoDB and PostgreSQL to manage and store data effectively.
+- 🐍 I'm also learning Python, a versatile language that I use for various scripting tasks and data analysis.
+- 🚀 I'm constantly learning and exploring new technologies to stay up-to-date in the fast-paced tech world.
 
 ## Technologies
 
