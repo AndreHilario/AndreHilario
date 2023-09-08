@@ -16,7 +16,7 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
 <style>
   /* Classe CSS para os ícones */
   .icon {
-    margin-right: 20px; /* Ajuste o valor da margem conforme desejado */
+    margin-right: 50px; /* Ajuste o valor da margem conforme desejado */
   }
 </style>
 
