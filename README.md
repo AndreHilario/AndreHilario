@@ -27,7 +27,12 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma_ORM-3333CC?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=sql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" />
 </p>
+
 
 ## GitHub Stats
 
