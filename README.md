@@ -1,6 +1,6 @@
 # Hello, be welcome! 👋
 
-I'm André Hilário, a passionate full-stack developer with a love for building and creating digital solutions.
+I'm André Hilário, a passionate full-stack developer with a love for building, creating, and solving digital solutions.
 
 ## About Me
 
@@ -21,7 +21,7 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
   <img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma_ORM-3333CC?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-   <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=sql&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=sql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -33,8 +33,22 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
   <img alt="Express" src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img alt="Render" src="https://img.shields.io/badge/-Render-764ABC?style=flat-square&logo=render&logoColor=white" />
 </p>
 
+
+## Interests
+
+In addition to my work in technology, I have a deep interest in several other areas:
+
+- 📚 Reading: I love exploring bookss, from science fiction to theology.
+- 🎵 Music: I'm a music enthusiast and enjoy playing the bass, guitar and exploring different music genres.
+- 🏋️ Exercise and Sports: Staying active through exercise and participating in sports is an important part of my lifestyle.
+- 🎮 Gaming: I'm a casual gamer and occasionally dive into the world of video games.
+
+These interests help me maintain a well-rounded life and provide inspiration for my work in technology.
 
 
 ## GitHub Stats
