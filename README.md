@@ -31,7 +31,10 @@ I'm André Hilário, a passionate full-stack developer with a love for building 
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat-square&logo=sql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 </p>
+
 
 
 ## GitHub Stats
