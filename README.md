@@ -43,7 +43,7 @@ I'm André Hilário, a passionate full-stack developer with a love for building,
 
 In addition to my work in technology, I have a deep interest in several other areas:
 
-- 📚 Reading: I love exploring bookss, from science fiction to theology.
+- 📚 Reading: I love exploring books, from science fiction to theology.
 - 🎵 Music: I'm a music enthusiast and enjoy playing the bass, guitar and exploring different music genres.
 - 🏋️ Exercise and Sports: Staying active through exercise and participating in sports is an important part of my lifestyle.
 - 🎮 Gaming: I'm a casual gamer and occasionally dive into the world of video games.
