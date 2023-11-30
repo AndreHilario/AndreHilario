@@ -36,6 +36,8 @@ I'm André Hilário, a passionate full-stack developer with a love for building,
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img alt="Render" src="https://img.shields.io/badge/-Render-764ABC?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PHP-Laravel%2010-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="PHP Laravel 10">
 </p>
 
 
